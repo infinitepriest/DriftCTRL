@@ -132,4 +132,6 @@ This project was loosely inspired by [AGiannoutsos/car_racer_gym](https://github
 
 Ayushman M.
 MS, Robotics and Autonomous Systems (Mechanical & Aerospace) – Arizona State University  
-GitHub: [aymisxx](https://github.com/aymisxx)
+GitHub: [infinitepriest](https://github.com/infinitepriest)
+
+---
